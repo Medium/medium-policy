@@ -76,7 +76,30 @@ Event logs: Our event logs record user actions on the site, such as clicking thr
 
 Here is an example of an anonymized event log entry for a user who views a post:
 
-{“tags”: {“usergroup”: “1"},”isAuthenticated”: false,”userId”: “lo_10101010101", “id”: “xx0101010101",”type”: “emit”,”client”: “web”,”createdAt”: 1397152749513,”reportedAt”: 1397152747909,”name”: “post.xoxoxoxoxo”, “value”: 1,”data”: {“location”: “https://medium.com/matter/22979c8ec9d6", “referrer”: “http://tech.slashdot.org/submission/3475293/are-the-deaf-being-silenced?sdsrc=rel","userId": “lo_8414a5579f70", “collectionSlug”: “matter”, “postId”: “22979c8ec9d6"}}
+```
+{
+  "tags":{
+    "usergroup":"1"
+  },
+  "isAuthenticated": false,
+  "userId": "lo_10101010101",
+  "id": "xx0101010101",
+  "type": "emit",
+  "client": "web",
+  "createdAt": 1397152749513,
+  "reportedAt": 1397152747909,
+  "name": "post.xoxoxoxoxo",
+  "value": 1,
+  "data": {
+    "location": "https://medium.com/matter/22979c8ec9d6",
+    "referrer": "http://tech.slashdot.org/submission/3475293/are-the-deaf-being-silenced?sdsrc=rel",
+    "userId": "lo_8414a5579f70",
+    "collectionSlug": "matter",
+    "postId": "22979c8ec9d6"
+   }
+}
+```
+
 The parts are as follows:
 
 tags: arbitrary tag about the user
