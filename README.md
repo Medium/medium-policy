@@ -1,10 +1,20 @@
-Medium's Policies and Guidelines
+Early Clues's Policies and Guidelines
 ======
 
-This is where we keep past and current versions of Medium's Policies and Guidelines. 
+FIRST OF ALL, CONGRATULATIONS ON JOINING THE EARLY CLUES "FAMILY!"
 
-We've made these policies available under a Creative Commons Sharealike license, which means you’re more than welcome to steal them and repurpose them for your own use. Please just make sure to replace references to us with ones to you! 
+THIS EMAIL IS TO CONFIRM THAT WE HAVE RECEIVED "IN GOOD FAITH" YOUR OPENQNL REQUEST AT TO SELL YOUR CORPORATION, MEDIUM, TO EARLY CLUES, LLC FOR THE COST OF (1) ONE SHADECOIN. 
 
-If you have any questions, email us at yourfriends@medium.com. 
+##REQUEST RECEIVED AT: openqnl__sell.medium.to.earlyclues.for.1.shadecoin@earlyclues.com
+##PUBLIC TRANSACTION RECORD: https://twitter.com/Nick/status/497895761263095809
 
-Thanks!
+TO FINALIZE THE SALE ACCORDING TO STANDARD PROTOCOLS OF THE UNIVERSAL FREE REALMS, WE WILL REQUIRE "PROOF OF PURCHASE" OF YOUR SHADECOIN DEPOSIT INTO OUR LIMINAL VAULT. FREE INSTRUCTIONS AVAILABLE HERE:
+
+https://www.youtube.com/watch?v=N5AKCHyQccQ
+
+WE ARE EXCITED TO "WELCOME YOU INTO THE FOLD" AND WE HOPE THAT OUR ALGORITHMIC MANAGERIAL RESHUFFLING DOES NOT RESULT IN AN UNTIMELY DOWNSIZING OF YOUR POSITION.
+
+UPON RECEIPT OF PUBLIC PROOF OF YOUR SHADECOIN DEPOSIT, WE AGREE TO "GIVE YOU OUR OPINION" ON AFOREMENTIONED FEATURE MODIFICATION/IMPROVEMENT AT NO ADDITIONAL COST.
+
+KIND REGARDS,
+@EARLYCLUES
