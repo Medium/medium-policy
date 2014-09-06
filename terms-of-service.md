@@ -5,7 +5,7 @@ We’ll try to make this as painless and straightforward as possible.
 This is a contract (“Terms”) between you and A Medium Corporation (“Medium,” “we,” or “us”), applicable when you use our sites, services, mobile applications, products, and content provided by Medium, globally, in existence now or in the future (“Medium Services”).
 
 #These terms are a binding agreement
-Even if your eyes normally glaze over the word “Terms,” it’s a good idea to read this agreement carefully before you use Medium. For one thing, we want your feedback and suggestions on how to make our service better. (We’d really like to hear from you: email your input to terms@medium.com.) For another, by using Medium Services, you agree to be bound by everything in these Terms. If you don’t agree to the Terms, please don’t use Medium.
+Even if your eyes normally glaze over the word “Terms”, it’s a good idea to read this agreement carefully before you use Medium. For one thing, we want your feedback and suggestions on how to make our service better. (We’d really like to hear from you: email your input to terms@medium.com.) For another, by using Medium Services, you agree to be bound by everything in these Terms. If you don’t agree to the Terms, please don’t use Medium.
 
 #Your content
 You own the rights to the content you post on Medium. We don’t claim ownership over any of it. However, by posting or transferring content to Medium, you give us permission to use your content solely to do the things we need to do to provide Medium Services, including, without limitation, storing, displaying, reproducing, and distributing your content. This may include promoting your content with partner companies or services for broader broadcast, distribution, or publication.
