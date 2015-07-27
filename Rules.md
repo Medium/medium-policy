@@ -38,7 +38,8 @@ Don’t use Medium to fish for personal information in deceptive ways. Don't pos
 
 #### Phishing and Other Frauds
 Don’t use Medium to engage in phishing or fraud.
-Promotion and Glorification of Self-Harm
+
+#### Promotion and Glorification of Self-Harm
 Don't actively promote or glorify self-harm, by which we mean cutting, eating disorders like anorexia or bulimia, and suicide.
 
 #### If You Break the Rules
