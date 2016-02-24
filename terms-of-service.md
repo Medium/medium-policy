@@ -1,76 +1,66 @@
-Effective Date: 4-10-14
-#Medium Terms of Service
-We’ll try to make this as painless and straightforward as possible.
+##Medium Terms of Service
 
-This is a contract (“Terms”) between you and A Medium Corporation (“Medium,” “we,” or “us”), applicable when you use our sites, services, mobile applications, products, and content provided by Medium, globally, in existence now or in the future (“Medium Services”).
+Effective: March 7, 2016
 
-#These terms are a binding agreement
-Even if your eyes normally glaze over the word “Terms,” it’s a good idea to read this agreement carefully before you use Medium. For one thing, we want your feedback and suggestions on how to make our service better. (We’d really like to hear from you: email your input to terms@medium.com.) For another, by using Medium Services, you agree to be bound by everything in these Terms. If you don’t agree to the Terms, please don’t use Medium.
+These Terms of Service (“Terms”) are a contract between you and A Medium Corporation. They govern your use of Medium’s sites, services, mobile apps, products, and content (“Services”).
+By using Medium, you agree to these Terms. If you don’t agree to any of the Terms, you can’t use Medium.
+We can change these Terms at any time. We keep a historical record of all changes to our Terms on GitHub. If a change is material, we’ll let you know before they take effect. By using Medium on or after that effective date, you agree to the new Terms. If you don’t agree to them, you should delete your account before they take effect, otherwise your use of the site and content will be subject to the new Terms.
 
-#Your content
-You own the rights to the content you post on Medium. We don’t claim ownership over any of it. However, by posting or transferring content to Medium, you give us permission to use your content solely to do the things we need to do to provide Medium Services, including, without limitation, storing, displaying, reproducing, and distributing your content. This may include promoting your content with partner companies or services for broader broadcast, distribution, or publication.
+#Content rights & responsibilities
 
-We will never sell your content to third parties without your explicit permission.
+You own the rights to the content you create and post on Medium.
 
-By publishing on Medium, you agree to allow others to view your content.
+By posting content to Medium, you give us a nonexclusive license to publish it on Medium Services, including anything reasonably related to publishing it (like storing, displaying, reformatting, and distributing it). In consideration for Medium granting you access to and use of the Services, you agree that Medium may enable advertising on the Services, including in connection with the display of your content or other information. We may also use your content to promote Medium, including its products and content. We will never sell your content to third parties without your explicit permission.
 
-We don’t pre-screen user content, but we have the right (though no obligation) to refuse or remove any content you post or transfer to Medium Services for any reason.
+You’re responsible for the content you post. This means you assume all risks related to it, including someone else’s reliance on its accuracy, or claims relating to intellectual property or other legal rights.
 
-You are free to delete your content from Medium at any time, though there may be a delay in removing it from public view due to operational requirements. We retain, but do not publicly display, backup copies of your deleted content on our servers for 30 days after you delete your account. If you delete your account or content, it may be permanently unrecoverable.
+You’re welcome to post content on Medium that you’ve published elsewhere, as long as you have the rights you need to do so. By posting content to Medium, you represent that doing so doesn’t conflict with any other agreement you’ve made.
 
-You’re responsible for the content you submit to Medium and assume all risks associated with it, including anyone else’s reliance on its accuracy, or claims relating to intellectual property or other legal rights. By posting, you represent that you own or have the necessary rights to post the content on Medium, and that doing so doesn’t conflict with any other licenses you’ve granted.
+By posting content you didn’t create to Medium, you are representing that you have the right to do so. For example, you are posting a work that’s in the public domain, used under license (including a free license, such as Creative Commons), or a fair use.
 
-Aside: We get a lot of questions about whether you can post content you own on Medium if you’ve already posted it elsewhere, like on your blog. The answer is yes. If you own the content, you’re welcome to copy it from other places and publish it on Medium (and vice versa) as long as you didn’t give exclusive rights to other platforms or publishers.
+We can remove any content you post for any reason.
 
-#Our content
-The look and feel of Medium Services are copyright A Medium Corporation. All rights reserved. Some portions of the site are licensed pursuant to third party open source licensing. We have also open sourced some of our own code, available here. For the remainder of the site, you may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascipt, logos, or visual design elements without express written permission from Medium unless otherwise permitted by law.
+You can delete any of your posts, or your account, anytime. Processing the deletion may take a little time, but we’ll do it as quickly as possible. We may keep backup copies of your deleted post or account on our servers for up to 14 days after you delete it.
 
-#We may modify these Terms at any time
-We can change these Terms at any time. If the changes are material, we’ll let you know by email or posting a notice on the site before the changes go into effect. The notice will designate a reasonable amount of time (the “Notice Period”) after which the new terms will go into effect for all users. If you don’t agree to the new terms, please delete your account within the Notice Period. If you do not delete your account within the Notice Period, your content and use of the site will be subject to the new terms going forward.
+#Our content and services
 
-You can access historical versions of our Terms of Service and other policies here.
+We reserve all rights in Medium’s look and feel. Some parts of Medium are licensed under third-party open source licenses. We also make some of our own code available under open source licenses. As for other parts of Medium, you may not copy or adapt any portion of our code or visual design elements (including logos) without express written permission from Medium unless otherwise permitted by law.
 
-#We may modify our Services at any time
-We do our best to provide you a reliable and evolving service, but we may change, terminate, or restrict access to any aspect of the service, at any time, without notice.
+You may not do, or try to do, the following: (1) access or tamper with non-public areas of the Services, our computer systems, or the systems of our technical providers; (2) access or search the Services by any means other than the currently available, published interfaces (e.g., APIs) that we provide; (3) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive, or false source-identifying information; or (4) interfere with, or disrupt, the access of any user, host, or network, including sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of content or accounts in such a manner as to interfere with or create an undue burden on the Services.
 
-#Privacy
-When you use Medium Services, you consent to the collection and use of information as detailed in our Privacy Policy. If you’re outside the United States, you consent to the transfer, storage, and processing of your information—including but not limited to the content you posted or transferred to the site and any personal information—to and within the United States and other countries.
+Crawling the Services is allowed if done in accordance with the provisions of our robots.txt file, but scraping the Services is prohibited.
 
-#No children please
-Medium is only for people 13 years old and over. If you’re under 13, we’re sorry, but you’re not allowed here. If we learn a child under 13 is using Medium we will terminate the child’s account.
+We may change, terminate, or restrict access to any aspect of the service, at any time, without notice.
 
-#Security and Responsible Disclosures
-We take security very seriously, and are always on the lookout for opportunities to make our service better. Our policy on security and finding and reporting vulnerabilities can be found here.
+#No children
 
-#Third-party account use for sign-ins
-We currently use third parties like Twitter to create and authorize user accounts. By using those third-party services, you agree to their terms of use, privacy policy, and other agreements between you and them.
+Medium is only for people 13 years old and over. By using Medium, you affirm that you are over 13. If we learn someone under 13 is using Medium, we’ll terminate their account.
 
-#Our rules
-Because Medium is shared space, and we want many different ideas to thrive, we need to have a few ground rules. There aren’t many. In fact, they can pretty much all be summed up thusly: Don’t pee in the pool (metaphorically speaking).
+#Security
 
-A complete list of our rules can be found here. Failure to comply with them may result in us taking action such as removing content, or suspending or deleting your account.
+If you find a security vulnerability on Medium, tell us. We have a bug bounty disclosure program.
 
-#DMCA copyright policy
-Medium deals with copyright infringement on Medium Services in accordance with the Digital Millennium Copyright Act. We have a policy of terminating repeat copyright infringers in appropriate circumstances.
+#Incorporated rules and policies
 
-The contact information for Medium’s Designated Agent for receipt of notices of claimed infringement is here:
+By using the Services, you agree to let Medium collect and use information as detailed in our Privacy Policy. If you’re outside the United States, you consent to letting Medium transfer, store, and process your information (including your personal information and content) in and out of the United States.
 
-A Medium Corporation 760 Market Street, Suite 900 San Francisco, CA 94103 Attn: Copyright Agent Email: copyright@medium.com
+To enable a functioning community, we have Rules. To ensure usernames are distributed and used fairly, we have a Username Policy. Under our DMCA Policy, we’ll remove material after receiving a valid takedown notice. Under our Trademark Policy, we’ll investigate any use of another’s trademark and respond appropriately.
 
-To read our full Copyright and DMCA Policy, visit us here.
+By using Medium, you agree to follow these Rules and Policies. If you don’t, we may remove content, or suspend or delete your account.
 
-#INTERLUDE
-You’re doing great, Dear Reader of these Terms. Let’s rest a moment, shall we? You’ve earned it. So far, so good, right? Everything pretty clear? Well, don’t get too comfortable. Now’s the time to activate the full Galactic Armada of your legal vocabulary comprehension and ALL CAPS READING SKILLS. What follows are several sections of heavily lawyered-up provisions that we would love to express in a more human-readable, less legal manner. But their form and substance has evolved over time, often via brutal, hand-to-hand litigation or not-to-be-ignored authoritative rulings from courts and interpretations by agencies. This gives us little flexibility in the wording, at least if we want to avoid being laughed out of court in some Doomsday scenario that neither of us even wants to think about. So these following provisions are important, you should read them carefully, and we apologize for the excruciating lawyerly patois.
+#Miscellaneous
 
-Miscellaneous lawyerly provisions (please read these carefully)
-1. YOU USE THE MEDIUM SERVICES AT YOUR OWN RISK. THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+Disclaimer of warranty. Medium provides the Services to you as is. You use them at your own risk and discretion. That means they don’t come with any warranty. None express, none implied. No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.
 
-2. MEDIUM MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO MEDIUM SERVICES. FOR EXAMPLE, WE DO NOT WARRANT THAT (I) THE SERVICE WILL MEET YOUR SPECIFIC REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, ABSOLUTELY SECURE, OR ERROR-FREE, (III) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, OR (IV) ANY ERRORS IN THE MEDIUM SERVICES WILL BE CORRECTED.
+Limitation of Liability. Medium won’t be liable to you for any damages that arise from your using the Services. This includes if the Services are hacked or unavailable. This includes all of types of damages (indirect, incidental, consequential, special or exemplary). And it includes all kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
 
-3. YOU UNDERSTAND AND EXPRESSLY AGREE THAT MEDIUM SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF MEDIUM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE SERVICE; (II) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE; (III) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE; (V) OR ANY OTHER MATTER RELATING TO THE MEDIUM SERVICES.
+No waiver. If Medium doesn’t exercise a particular right under these Terms, that doesn’t waive it.
 
-4. THE FAILURE OF MEDIUM TO EXERCISE OR ENFORCE ANY RIGHT OR PROVISION OF THESE TERMS SHALL NOT CONSTITUTE A WAIVER OF THAT RIGHT OR PROVISION. THE TERMS AND OUR PRIVACY POLICY CONSTITUTE THE ENTIRE AGREEMENT BETWEEN YOU AND MEDIUM AND GOVERN YOUR USE OF THE MEDIUM SERVICES, SUPERSEDING ANY PRIOR AGREEMENTS BETWEEN YOU AND MEDIUM (INCLUDING, BUT NOT LIMITED TO, ANY PRIOR VERSIONS OF THE TERMS). YOU AGREE THAT THESE TERMS AND YOUR USE OF THE MEDIUM SERVICES ARE GOVERNED UNDER CALIFORNIA LAW. BEFORE RESORTING TO COURTS, WE STRONGLY ENCOURAGE YOU TO CONTACT US DIRECTLY TO TRY TO WORK IT OUT.
+Severability. If any provision of these terms is found invalid by a court of competent jurisdiction, You agree that the court should try to give effect to the parties’ intentions as reflected in the provision and that other provisions of the Terms will remain in full effect.
 
-We’d love to hear your questions, concerns, and feedback about this policy. If you have any suggestions for us, feel free to let us know at terms@medium.com.
+Choice of law and jurisdiction. These Terms are governed by California law, without reference to its conflict of laws provisions. You agree that any suit arising from the Services must take place in a court located in San Francisco, California.
 
-The End.
+Entire agreement. These Terms (including any document incorporated by reference into them) are the whole agreement between Medium and you concerning the Services.
+Government use. If you’re ​using ​Medium for the U.S. Government, this Amendment to ​Medium’s Terms of Service ​applies to you​.
+
+Questions? Let us know at [legal@medium.com](mailto:legal@medium.com).
