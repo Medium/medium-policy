@@ -50,17 +50,18 @@ By using Medium, you agree to follow these Rules and Policies. If you don’t, w
 
 #Miscellaneous
 
-Disclaimer of warranty. Medium provides the Services to you as is. You use them at your own risk and discretion. That means they don’t come with any warranty. None express, none implied. No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.
+*Disclaimer of warranty*. Medium provides the Services to you as is. You use them at your own risk and discretion. That means they don’t come with any warranty. None express, none implied. No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.
 
-Limitation of Liability. Medium won’t be liable to you for any damages that arise from your using the Services. This includes if the Services are hacked or unavailable. This includes all of types of damages (indirect, incidental, consequential, special or exemplary). And it includes all kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
+*Limitation of Liability*. Medium won’t be liable to you for any damages that arise from your using the Services. This includes if the Services are hacked or unavailable. This includes all of types of damages (indirect, incidental, consequential, special or exemplary). And it includes all kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
 
-No waiver. If Medium doesn’t exercise a particular right under these Terms, that doesn’t waive it.
+*No waiver*. If Medium doesn’t exercise a particular right under these Terms, that doesn’t waive it.
 
-Severability. If any provision of these terms is found invalid by a court of competent jurisdiction, You agree that the court should try to give effect to the parties’ intentions as reflected in the provision and that other provisions of the Terms will remain in full effect.
+*Severability*. If any provision of these terms is found invalid by a court of competent jurisdiction, You agree that the court should try to give effect to the parties’ intentions as reflected in the provision and that other provisions of the Terms will remain in full effect.
 
-Choice of law and jurisdiction. These Terms are governed by California law, without reference to its conflict of laws provisions. You agree that any suit arising from the Services must take place in a court located in San Francisco, California.
+*Choice of law and jurisdiction*. These Terms are governed by California law, without reference to its conflict of laws provisions. You agree that any suit arising from the Services must take place in a court located in San Francisco, California.
 
-Entire agreement. These Terms (including any document incorporated by reference into them) are the whole agreement between Medium and you concerning the Services.
-Government use. If you’re ​using ​Medium for the U.S. Government, this Amendment to ​Medium’s Terms of Service ​applies to you​.
+*Entire agreement*. These Terms (including any document incorporated by reference into them) are the whole agreement between Medium and you concerning the Services.
+
+*Government use*. If you’re ​using ​Medium for the U.S. Government, [this Amendment](https://medium.com/@Medium/amendment-to-medium-terms-of-service-applicable-to-u-s-government-users-fccb00db67d7#.nf9iqjwhv) to ​Medium’s Terms of Service ​applies to you​.
 
 Questions? Let us know at [legal@medium.com](mailto:legal@medium.com).
