@@ -15,11 +15,11 @@ We think free expression deserves a lot of leeway. So, we generally think the be
 #### Bullying and Harassment
 We won’t tolerate bullying, harassment, public shaming, or posting private or confidential information about others on Medium. This includes:
 
-*Posts that shame specific individuals, including images or altered images
-*Posts with altered or unaltered copies of private communications posted without the explicit consent of a party to the communication
-*Posts with non-public, personal information intended to target, blackmail, or harass people
-*Repeated personally insulting notes, responses, story requests, or writer requests
-*Intimate or explicit images taken or posted without the subject’s explicit consent (including revenge porn)
+* Posts that shame specific individuals, including images or altered images  
+* Posts with altered or unaltered copies of private communications posted without the explicit consent of a party to the communication  
+* Posts with non-public, personal information intended to target, blackmail, or harass people  
+* Repeated personally insulting notes, responses, story requests, or writer requests  
+* Intimate or explicit images taken or posted without the subject’s explicit consent (including revenge porn)  
 
 Medium supports parody, commentary, and fair use. Users may speak freely about matters and people of public interest. We support vigorous debate of substantive issues. However, we won’t tolerate abusive behavior directed at private individuals. In deciding whether someone has violated the rules, we will take into account things like the context and nature of the posted information and applicable privacy laws.
 
