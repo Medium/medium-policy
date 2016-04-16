@@ -31,7 +31,7 @@ If we merge with another company such that your information will become subject 
 We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
 
 We respect Do Not Track (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. 
-You can’t log into Medium while DNT is enabled.
+By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
 
 Some third-party services that we use, such as embedly or Google Analytics, may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
 
