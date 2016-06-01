@@ -5,7 +5,7 @@ Effective Date: March 7, 2016
 Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
 #General information
-This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Medium Services”).
 
 #What we may collect
 We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
