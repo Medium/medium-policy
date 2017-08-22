@@ -1,10 +1,10 @@
-Medium's Policies and Guidelines
+Habitat's Policies and Guidelines
 ======
 
-This is where we keep past and current versions of Medium's Policies and Guidelines. 
+This is where we keep past and current versions of Habitat's Policies and Guidelines.
 
-We've made these policies available under a Creative Commons Sharealike license, which means you’re more than welcome to repurpose them for your own use. Please just make sure to replace references to us with ones to you! 
+These policies are made available under the [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/) and were adapted from [Medium’s Policies and Guidelines](https://github.com/Medium/medium-policy).
 
-If you have any questions, email us at yourfriends@medium.com. 
+If you have any questions, email us at [feedback@habitat-labs.com](mailto:feedback@habitat-labs.com).
 
 Thanks!
