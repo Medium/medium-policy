@@ -1,4 +1,4 @@
-#Medium Rules
+# Medium Rules
 Some parts of the Internet lack rules. This isn’t one of them.
 
 Medium exists for people to share their opinions, thoughts, and ideas, and to move conversation forward. We support vigorous debate of substantive issues. Inevitably this will lead to disagreements and heated discussions. Sometimes this will enlighten. Other times it will frustrate. In all cases, we ask that our users treat each other with respect.

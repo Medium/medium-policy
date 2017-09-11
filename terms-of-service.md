@@ -1,4 +1,4 @@
-##Medium Terms of Service
+## Medium Terms of Service
 
 Effective: March 7, 2016
 
@@ -6,7 +6,7 @@ These Terms of Service (“Terms”) are a contract between you and A Medium Cor
 By using Medium, you agree to these Terms. If you don’t agree to any of the Terms, you can’t use Medium.
 We can change these Terms at any time. We keep a historical record of all changes to our Terms on GitHub. If a change is material, we’ll let you know before they take effect. By using Medium on or after that effective date, you agree to the new Terms. If you don’t agree to them, you should delete your account before they take effect, otherwise your use of the site and content will be subject to the new Terms.
 
-#Content rights & responsibilities
+# Content rights & responsibilities
 
 You own the rights to the content you create and post on Medium.
 
@@ -22,7 +22,7 @@ We can remove any content you post for any reason.
 
 You can delete any of your posts, or your account, anytime. Processing the deletion may take a little time, but we’ll do it as quickly as possible. We may keep backup copies of your deleted post or account on our servers for up to 14 days after you delete it.
 
-#Our content and services
+# Our content and services
 
 We reserve all rights in Medium’s look and feel. Some parts of Medium are licensed under third-party open source licenses. We also make some of our own code available under open source licenses. As for other parts of Medium, you may not copy or adapt any portion of our code or visual design elements (including logos) without express written permission from Medium unless otherwise permitted by law.
 
@@ -32,15 +32,15 @@ Crawling the Services is allowed if done in accordance with the provisions of ou
 
 We may change, terminate, or restrict access to any aspect of the service, at any time, without notice.
 
-#No children
+# No children
 
 Medium is only for people 13 years old and over. By using Medium, you affirm that you are over 13. If we learn someone under 13 is using Medium, we’ll terminate their account.
 
-#Security
+# Security
 
 If you find a security vulnerability on Medium, tell us. We have a bug bounty disclosure program.
 
-#Incorporated rules and policies
+# Incorporated rules and policies
 
 By using the Services, you agree to let Medium collect and use information as detailed in our Privacy Policy. If you’re outside the United States, you consent to letting Medium transfer, store, and process your information (including your personal information and content) in and out of the United States.
 
@@ -48,7 +48,7 @@ To enable a functioning community, we have Rules. To ensure usernames are distri
 
 By using Medium, you agree to follow these Rules and Policies. If you don’t, we may remove content, or suspend or delete your account.
 
-#Miscellaneous
+# Miscellaneous
 
 *Disclaimer of warranty*. Medium provides the Services to you as is. You use them at your own risk and discretion. That means they don’t come with any warranty. None express, none implied. No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.
 
