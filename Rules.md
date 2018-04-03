@@ -83,9 +83,16 @@ We do not allow activities that encourage, promote or glorify acts of self-harm,
 If you find a post or account on Medium that violates these rules, please [flag it](https://help.medium.com/hc/en-us/articles/214098258-Report-posts-users). You can use [this form](https://yourfriends.medium.com/) to provide more detail or to report other conduct you believe violates our rules. Additionally, you can send us an email to yourfriends@medium.com.
 
 ## If you break the rules
-If it looks like you’ve violated our rules, we may send you an email and ask you to explain what you’re up to and why. Context is important, and we want to understand the big picture. If you don’t adequately explain yourself or fix the problem, we may suspend your account or remove your content. We strive to be fair, but we reserve the right to suspend accounts or remove content, without notice, for any reason, particularly to protect our services, infrastructure, users, or community.
+If it looks like you’ve violated our rules, we may send you an email and ask you to explain what you’re up to and why. Context is important, and we want to understand the big picture. If you don’t adequately explain yourself or fix the problem, we may suspend your account or remove your content. We strive to be fair, but we reserve the right to suspend accounts or remove content, without notice, for any reason, particularly to protect our services, infrastructure, users, or community. If you attempt to evade suspension by creating new accounts, we will suspend your new accounts.
 
-If you attempt to evade suspension by creating new accounts, we will suspend your new accounts.
+## Notice
+Before disabling content associated with your account, we will give you advance notice, unless we believe your account is automated or operating in bad faith, or that notifying you is likely to cause, maintain or exacerbate harm to someone.
+
+## Appeals
+If you believe your content or account have been restricted or disabled in error, or believe there is relevant context we were not aware of in reaching our determination, you can write to us at yourfriends@medium.com. We will consider all good faith efforts to appeal.
+
+## Government Takedown Requests
+If Medium receives a request from a government actor to restrict access to content associated with your account, we will notify you unless we are prohibited by law or believe doing so may endanger others. Where applicable, we will work to limit legally-ordered content restrictions to jurisdictions where we have a good faith belief that we are legally required to restrict the content.
 
 *We may enforce, or not enforce, these policies at our sole discretion. These policies don’t create a duty or contractual obligation for us to act.*
 
