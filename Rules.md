@@ -45,6 +45,9 @@ We do not allow posts or accounts that engage in the following restricted catego
 ## Related conduct
 We do not allow posts or accounts that engage in on-platform, off-platform, or cross-platform campaigns of targeting, harassment, hate speech, violence, or disinformation. We may consider off-platform actions in assessing a Medium account, and restrict access or availability to that account.
 
+## Duplicate Content
+We do not allow posting duplicate content, whether from a single account or across multiple accounts, either publicly or as an unlisted story.
+
 ## Spam
 We do not allow spam on Medium. All spam will be immediately removed from Medium, without notification. While it is hard to define this content with precision or completeness, here are some representative behaviors we look for that are characteristic of spam:
 - Posting content primarily to drive traffic to, or increase the search rankings of, an external site, product, or service
@@ -112,7 +115,7 @@ We do not allow activities that encourage, promote or glorify acts of self-harm,
 ---
 
 ## How to report a violation
-If you find a post or account on Medium that violates these rules, [please flag it](https://help.medium.com/hc/en-us/articles/214098258-Report-posts-users). You can use [this form](https://yourfriends.medium.com/) to provide more detail or to report other conduct you believe violates our rules. Additionally, you can send us an email to [yourfriends@medium.com](mailto:yourfriends@medium.com).
+If you find a post or account on Medium that violates these rules, [please flag it](https://help.medium.com/hc/en-us/articles/214098258-Report-posts-users). You can use [this form](https://yourfriends.medium.com/) to provide more detail or to report other conduct you believe violates our rules. Additionally, you can send us an email to [trust@medium.com](mailto:trust@medium.com).
 
 ## If you break the rules
 We strive to be fair, but we reserve the right to suspend accounts or remove content, without notice, for any reason, particularly to protect our services, infrastructure, users, or community. If you attempt to evade suspension by creating new accounts or posts, we will suspend your new accounts and posts.
@@ -150,6 +153,6 @@ Medium reserves the right to review posts or accounts at any time and stop payme
 ## How to report a Member post violation
 If you find a member post or account on Medium that violates these rules, please [flag it](https://help.medium.com/hc/en-us/articles/214098258-Report-posts-users). You can use [this form](https://yourfriends.medium.com/) to provide more detail or to report other conduct you believe violates our rules. Additionally, you can send us an email to [yourfriends@medium.com](mailto:yourfriends@medium.com).
 
-If you have questions or feedback about these rules, let us know. You can contact us at [legal@medium.com](mailto:legal@medium.com).
+If you have questions or feedback about these rules, let us know. You can contact us at [trust@medium.com](mailto:trust@medium.com).
 
-_Updated July 2019_
+_Updated November 2019_
