@@ -1,22 +1,22 @@
-#Medium Privacy Policy
+# Medium Privacy Policy
 
 Effective Date: March 7, 2016
 
 Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-#General information
+# General information
 This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
-#What we may collect
+# What we may collect
 We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
 When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
 When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
 
-#Email from Medium
+# Email from Medium
 Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
 We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
 
-#Disclosure of your information
+# Disclosure of your information
 As a rule, we don’t share your personal information outside the company.
 
 We won’t sell your personal information.
