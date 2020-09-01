@@ -27,7 +27,7 @@ If we’re going to share your information in response to legal process, we’ll
 
 If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
 
-#Cookies
+# Cookies
 We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
 
 We respect Do Not Track (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. 
@@ -35,10 +35,10 @@ By logging in you are opting to allow Medium to ignore the DNT setting and to us
 
 Some third-party services that we use, such as embedly or Google Analytics, may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
 
-#Data Storage
+# Data Storage
 Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We maintain two types of logs: server logs and event logs.
 
-#Modifying your personal information or deleting your account
+# Modifying your personal information or deleting your account
 
 If you have a Medium account, you can access and modify your personal information, or delete your account here.
 
@@ -46,11 +46,11 @@ To protect information from accidental or malicious destruction, we may not imme
 
 If you delete your account, your account and content may be unrecoverable.
 
-#Data security
+# Data security
 We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
 
-#Changes to this Policy
+# Changes to this Policy
 Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be here and we will archive former versions of the policy here.
 
-#Questions
+# Questions
 We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:legal@medium.com).
